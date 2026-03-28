@@ -1,6 +1,5 @@
 # Hi there 👋, I'm Fathur (ファツル)
 ### Student | Computer Enggineering | UNAND
-![foto Profil](img/IMG_7716.JPG)
 ![Ilustrasi Project](img/4_DOF.gif)
 ### I'm a Computer engineering Student, who likes to learn something new, especially science and technology related.
 #
