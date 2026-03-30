@@ -1,14 +1,16 @@
-# Hi there 👋, I'm Fathur (ファツル)
+# Hi there 👋, I'm Fathur (ファトゥル)
 ### Student | Computer Enggineering | UNAND
-![Ilustrasi Project](img/4_DOF.gif)
+![Ilustrasi Project](img/4-dof%20simulation.gif) 
 ### I'm a Computer engineering Student, who likes to learn something new, especially science and technology related.
 #
 - I’m currently learning About Kinematics and Robotic.
 - Currently learning 4-dof (4 degree of Freedom) robots.
 - Simulating the robots using Geogebra
-- Aiming to make a robot that can controlled with hands.
+- Starting to learn phyton
 - Know C basics programming.
 - Likes to integrates math with programming
+- Aiming to make a gesture-based ai (on-going)
+- Aiming to make a robot that can controlled with hands (delayed).
 - 日本語を勉強しています
 - 日本でインターンシップをしたいです
 
