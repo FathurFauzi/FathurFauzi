@@ -5,9 +5,9 @@
 ![Status](https://img.shields.io/badge/UNDERGRDURATE-000080?style=for-the-badge)
 ![Major](https://img.shields.io/badge/Computer%20Engineering-UNAND-00AF22?style=for-the-badge) 
 
+![Ilustrasi Project](img/4-dof%20simulation.gif) 
 </div>
 
-![Ilustrasi Project](img/4-dof%20simulation.gif) 
 ### I'm a Computer engineering Student, who likes to learn something new, especially **science and technology** related.
 #
 ## My social Media 
