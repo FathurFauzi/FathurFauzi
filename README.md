@@ -1,9 +1,12 @@
-# Hi there 👋, I'm Fathur (ファトゥル)
-### Student | Computer Enggineering | UNAND
+# Hi there 👋, I'm **Fathur** (__ファトゥル__)
+ $\colorbox{#000080}{\color{WHITE}{\text{Student}}}$ | $\colorbox{#000}{\color{lime}{\text{Computer Enggineering}}}$ | $\colorbox{#00AF22}{\color{WHITE}{\text{UNAND}}}$
+
 ![Ilustrasi Project](img/4-dof%20simulation.gif) 
-### I'm a Computer engineering Student, who likes to learn something new, especially science and technology related.
+### I'm a Computer engineering Student, who likes to learn something new, especially **science and technology** related.
 #
-- I’m currently learning About Kinematics and Robotic.
+
+### About Me :
+- Currently learning About Kinematics and Robotic.
 - Currently learning 4-dof (4 degree of Freedom) robots.
 - Simulating the robots using Geogebra
 - Starting to learn phyton
