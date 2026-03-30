@@ -1,8 +1,11 @@
 # Hi there 👋, I'm **Fathur** (__ファトゥル__)
 
-![Status](https://img.shields.io/badge/STUDENT-000080?style=for-the-badge)
+<div align="center">
+
+![Status](https://img.shields.io/badge/UNDERGRDURATE-000080?style=for-the-badge)
 ![Major](https://img.shields.io/badge/Computer%20Engineering-UNAND-00AF22?style=for-the-badge) 
 
+</div>
 
 ![Ilustrasi Project](img/4-dof%20simulation.gif) 
 ### I'm a Computer engineering Student, who likes to learn something new, especially **science and technology** related.
@@ -79,6 +82,10 @@ Gaya ini sangat berbeda. Dia hanya menampilkan satu kotak teks dengan ikon, lalu
 
 template plain text (pakai ![]()):
     ![Instagram](https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white)
+
+    ![Status](https://img.shields.io/badge/STUDENT-000080?style=for-the-badge)
+
+    ![Major](https://img.shields.io/badge/Computer%20Engineering-UNAND-00AF22?style=for-the-badge) 
 
 Template pakai html href (biar bisa diklik)
   <a href="https://www.youtube.com/channel/UCTk4hR5N9e_Rmixdp4lEPNw?sub_confirmation=1">
