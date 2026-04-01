@@ -25,7 +25,7 @@
 
 
 ### About Me :
-- Currently learning About Kinematics and Robotic.
+- Currently learning About [Kinematics and Robotic](https://github.com/FathurFauzi/Robotics-and-Kinematics).
 - Currently learning 4-dof (4 degree of Freedom) robots.
 - Simulating the robots using Geogebra
 - Starting to learn phyton
