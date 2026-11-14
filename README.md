@@ -5,7 +5,13 @@
 ![Status](https://img.shields.io/badge/UNDERGRDURATE-000080?style=for-the-badge)
 ![Major](https://img.shields.io/badge/Computer%20Engineering-UNAND-00AF22?style=for-the-badge) 
 
+![AI](https://img.shields.io/badge/AI-enthusiast-blue?)
+![FPGA](https://img.shields.io/badge/FPGA-learning-orange)
+![Status](https://img.shields.io/badge/CNN%20accelerator-in%20progress-yellow)
+
 ![Ilustrasi Project](img/4-dof%20simulation.gif) 
+
+
 </div>
 
 ### I'm a Computer engineering Student, who likes to learn something new, especially **science and technology** related.
@@ -25,14 +31,32 @@
 
 
 ### About Me :
+**A. Kinematics**
 - Currently learning About [Kinematics and Robotic](https://github.com/FathurFauzi/Robotics-and-Kinematics).
 - Currently learning 4-dof (4 degree of Freedom) robots.
 - Simulating the robots using Geogebra
 - Starting to learn phyton
 - Know C basics programming.
 - Likes to integrates math with programming
-- Aiming to make a gesture-based ai (on-going)
+
+**B. Computer visions**
+- Already made a gesture-based ai for construction savety.
 - Aiming to make a robot that can controlled with hands (delayed).
+<!-- Actually i already have alot of project using computer visions, but because i didnt documentate it, it just stays at my device, maybe later, i will documentate it as i relearn that topics again-->
+
+**C. AI and Machine Learning**
+- Learning machine learning from scratch, including forward and backward pass by hand.
+- Built a multilayer perceptron (4 hidden layers, 4-bit input, 7-segment output) in Python with NumPy.
+- Aiming to integrate it with FPGA hardware design.
+
+**D. IC Design**
+- currently learning digital IC design.
+- focusing on building a CNN accelerator on FPGA using Verilog.
+
+**E. Language skills**
+- Bahasa Indonesia: (Native)
+- English         : intermediate, B1-B2 (Self-assessed).
+- Japanese        : can read hiragana-katagana,  and recognize a few kanji
 - 日本語を勉強しています
 - 日本でインターンシップをしたいです
 
